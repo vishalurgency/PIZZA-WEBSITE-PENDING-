@@ -1,0 +1,26 @@
+.header {
+    background: #ff5733;
+    color: #fff;
+    padding: 10px 20px;
+  }
+  
+  .header .logo {
+    display: inline-block;
+    font-size: 1.5em;
+  }
+  
+  .header nav ul {
+    list-style: none;
+    float: right;
+  }
+  
+  .header nav ul li {
+    display: inline;
+    margin: 0 10px;
+  }
+  
+  .header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  

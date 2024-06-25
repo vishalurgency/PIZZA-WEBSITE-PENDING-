@@ -1,0 +1,25 @@
+.menu-section {
+    padding: 50px 20px;
+    background: #fff;
+  }
+  
+  .menu-section h2 {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .menu {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu-item {
+    text-align: center;
+    width: 30%;
+  }
+  
+  .menu-item .price {
+    color: #ff5733;
+    font-weight: bold;
+  }
+  
